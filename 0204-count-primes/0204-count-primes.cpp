@@ -1,25 +1,22 @@
-#include <bitset>
-#define MAX 10000000 // Adjust as needed for your max 'n'
-
 class Solution {
 public:
     int countPrimes(int n) {
         if (n <= 2) return 0;
 
-        std::bitset<MAX> isPrime;
-        isPrime.set(); // Set all bits to true initially
-        isPrime[0] = isPrime[1] = 0;
+        vector<bool> isPrime(n, true);
+        isPrime[0] = isPrime[1] = false;
 
-        for (int i = 2; i * i < n; i++) {
+        // Only check odd numbers starting from 3
+        for (int i = 3; i * i < n; i += 2) {
             if (isPrime[i]) {
-                for (int j = i * i; j < n; j += i) {
-                    isPrime[j] = 0;
+                for (int j = i * i; j < n; j += 2 * i) {
+                    isPrime[j] = false;
                 }
             }
         }
 
-        int count = 0;
-        for (int i = 2; i < n; i++) {
+        int count = 1; // Count '2' as prime
+        for (int i = 3; i < n; i += 2) {
             if (isPrime[i]) count++;
         }
 
