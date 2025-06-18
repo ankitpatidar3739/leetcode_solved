@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
 <!---LeetCode Topics End-->
