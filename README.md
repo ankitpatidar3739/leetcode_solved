@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
+| [1894-merge-strings-alternately](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
@@ -39,4 +40,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0011-container-with-most-water) |
+| [1894-merge-strings-alternately](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
