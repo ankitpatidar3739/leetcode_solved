@@ -1,31 +1,23 @@
 class Solution {
 public:
-    std::vector<int> asteroidCollision(std::vector<int>& asteroids) {
-        std::list<int> st;
+    vector<int> asteroidCollision(vector<int>& asteroids) {
+        vector<int>st;
 
-        for (int asteroid : asteroids) {
-            if (asteroid > 0) {
-                st.push_back(asteroid);
-            } else {
-                bool destroyed = false;
-                while (!st.empty() && st.back() > 0) {
-                    if (st.back() < std::abs(asteroid)) {
-                        st.pop_back();
-                    } else if (st.back() == std::abs(asteroid)) {
-                        st.pop_back();
-                        destroyed = true;
-                        break;
-                    } else {
-                        destroyed = true;
-                        break;
-                    }
+        for(int i=0;i<asteroids.size();i++){
+            if(asteroids[i]>0){
+                st.push_back(asteroids[i]);
+            }else{
+                while(!st.empty() && st.back()>0 && st.back()< std::abs(asteroids[i])){
+                    st.pop_back();
+
                 }
-                if (!destroyed && (st.empty() || st.back() < 0)) {
-                    st.push_back(asteroid);
-                }
+                 if(!st.empty() && st.back()==abs(asteroids[i])){
+                st.pop_back();
+            }else if(st.empty() || st.back()<0){
+                st.push_back(asteroids[i]);
+            }
             }
         }
-        std::vector<int> result(st.begin(), st.end());
-        return result;
+        return st;
     }
 };
