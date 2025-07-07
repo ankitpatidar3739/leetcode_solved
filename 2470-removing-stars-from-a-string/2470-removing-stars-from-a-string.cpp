@@ -4,8 +4,7 @@ public:
         stack<char>st;
 
         for(int i=0;i<s.length();i++){
-            // if(s.length==0) return "";
-
+            
             if(s[i]=='*') {
                 if(!st.empty()){
                     st.pop();
