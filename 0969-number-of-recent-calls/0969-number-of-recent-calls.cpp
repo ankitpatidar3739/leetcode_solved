@@ -9,8 +9,7 @@ public:
         
             q1.push(t);
 
-            int margin = t-3000;
-                while(!q1.empty() && q1.front()<margin){
+                while(!q1.empty() && q1.front()<t-3000){
                     q1.pop();
                 }
             return q1.size();
