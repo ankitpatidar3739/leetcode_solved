@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0547-number-of-provinces) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
