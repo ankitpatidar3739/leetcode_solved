@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0394-decode-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0141-linked-list-cycle) |
+| [0424-longest-repeating-character-replacement](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1777-determine-if-two-strings-are-close) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
