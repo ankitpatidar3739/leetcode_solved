@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
+| [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0073-set-matrix-zeroes) |
+| [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
