@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0136-single-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0151-reverse-words-in-a-string) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
