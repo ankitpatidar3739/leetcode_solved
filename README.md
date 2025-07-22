@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
