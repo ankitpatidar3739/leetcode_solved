@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0238-product-of-array-except-self) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1777-determine-if-two-strings-are-close) |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0124-binary-tree-maximum-path-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
