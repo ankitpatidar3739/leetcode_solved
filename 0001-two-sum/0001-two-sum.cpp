@@ -7,13 +7,14 @@ public:
             int el=nums[i];
             int remaining=target-nums[i];
             if(mpp.find(remaining)!=mpp.end()){
-               return{mpp[remaining],i};
+                ls.push_back(mpp[remaining]);
+                ls.push_back(i);
                 
                 // break;
             }
             mpp[el]=i;
         }
-        return {};
+        return ls;
 
     }
 };
