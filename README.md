@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0135-candy) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0394-decode-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
