@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
 ## Two Pointers
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 ## Tree
 |  |
 | ------- |
