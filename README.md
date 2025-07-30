@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0057-insert-interval) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0152-maximum-product-subarray) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
