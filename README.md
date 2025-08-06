@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
+| [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -256,12 +259,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
