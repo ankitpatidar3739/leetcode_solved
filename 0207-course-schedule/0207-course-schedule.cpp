@@ -2,17 +2,19 @@ class Solution {
 public:
     bool canFinish(int V, vector<vector<int>>& prerequisites) {
         vector<vector<int>>adj(V);
+        vector<int>indegree(V,0);
 
         for(auto it:prerequisites){
             adj[it[1]].push_back(it[0]);
+            indegree[it[0]]++;
         }
 
-        vector<int>indegree(V,0);
-        for(int i=0;i<V;i++){
-            for(auto it:adj[i]){
-                indegree[it]++;
-            }
-        }
+        
+        // for(int i=0;i<V;i++){
+        //     for(auto it:adj[i]){
+                
+        //     }
+        // }
 
         queue<int>q;
         for(int i=0;i<V;i++){
