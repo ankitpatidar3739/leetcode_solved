@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
 ## Number Theory
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
+| [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -368,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0210-course-schedule-ii) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
