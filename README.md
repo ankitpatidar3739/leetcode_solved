@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0162-find-peak-element) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
 ## Counting
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -284,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -336,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
