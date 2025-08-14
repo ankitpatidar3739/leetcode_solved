@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0152-maximum-product-subarray) |
@@ -374,5 +376,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
