@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
 ## Two Pointers
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1894-merge-strings-alternately) |
 ## Prefix Sum
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
