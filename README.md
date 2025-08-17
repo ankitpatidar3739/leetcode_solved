@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0345-reverse-vowels-of-a-string) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0206-reverse-linked-list) |
 ## Monotonic Stack
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -390,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
