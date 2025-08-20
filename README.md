@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
