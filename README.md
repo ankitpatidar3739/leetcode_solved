@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
+| [3790-fruits-into-baskets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -422,4 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0062-unique-paths) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
