@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0056-merge-intervals) |
@@ -436,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
