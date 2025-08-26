@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0162-find-peak-element) |
+| [0907-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1646-kth-missing-positive-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1646-kth-missing-positive-number) |
