@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0128-longest-consecutive-sequence) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0124-binary-tree-maximum-path-sum) |
