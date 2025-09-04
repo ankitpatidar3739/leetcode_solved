@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3790-fruits-into-baskets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
