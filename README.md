@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
