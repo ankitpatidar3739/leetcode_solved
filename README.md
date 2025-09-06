@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0049-group-anagrams) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0051-n-queens) |
 ## Brainteaser
