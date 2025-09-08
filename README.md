@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0226-invert-binary-tree) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0783-search-in-a-binary-search-tree) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0783-search-in-a-binary-search-tree) |
