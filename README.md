@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0231-power-of-two) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0090-subsets-ii) |
 ## Brainteaser
 |  |
 | ------- |
