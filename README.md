@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0053-maximum-subarray) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0064-minimum-path-sum) |
