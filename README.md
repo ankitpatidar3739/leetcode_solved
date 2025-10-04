@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0392-is-subsequence) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
