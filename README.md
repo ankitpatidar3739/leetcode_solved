@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3719-longest-balanced-subarray-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0890-lemonade-change) |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
+| [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
 ## Sliding Window
 |  |
 | ------- |
@@ -562,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
