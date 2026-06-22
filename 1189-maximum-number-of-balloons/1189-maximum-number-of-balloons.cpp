@@ -7,8 +7,6 @@ public:
             freq[ch]++;
         }
 
-        int ans=min({ freq['b'],freq['a'],freq['l']/2,freq['o']/2,freq['n']});
-
-        return ans;
+        return min({ freq['b'],freq['a'],freq['l']/2,freq['o']/2,freq['n']});
     }
 };
