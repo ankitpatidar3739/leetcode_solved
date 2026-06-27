@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0213-house-robber-ii) |
+| [0228-summary-ranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0283-move-zeroes) |
