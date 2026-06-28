@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0127-word-ladder) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
