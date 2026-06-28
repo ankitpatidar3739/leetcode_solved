@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0890-lemonade-change) |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Two Pointers
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
 | ------- |
