@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0090-subsets-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
