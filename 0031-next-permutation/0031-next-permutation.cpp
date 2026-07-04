@@ -1,30 +1,27 @@
 class Solution {
 public:
-    void nextPermutation(vector<int>& arr) {
-        //find prefix match where arr[i]>arr[i+1]
-        int n=arr.size();
-        int index=-1;
+    void nextPermutation(vector<int>& nums) {
+        int n=nums.size();
+        int idx=-1;
+
         for(int i=n-2;i>=0;i--){
-            if(arr[i]<arr[i+1]){
-                index=i;
+            if(nums[i]<nums[i+1]){
+                idx=i;
                 break;
             }
         }
-        if(index==-1){
-            reverse(arr.begin(),arr.end());
+        if(idx==-1){
+            reverse(nums.begin(),nums.end());
         }else{
-            //find greater than i but smallest one so iterate from back
-        for(int i=n-1;i>=index;i--){
-            if(arr[i]>arr[index]){
-                swap(arr[i],arr[index]);
+            for(int i=n-1;i>idx;i--){
+            if(nums[i]>nums[idx]){
+                swap(nums[i],nums[idx]);
                 break;
             }
         }
-
-        //now reverse the remaining integers on right side of index
-        reverse(arr.begin()+index+1,arr.end());
+        reverse(nums.begin()+idx+1,nums.end());
         }
-
+        
         
     }
 };
