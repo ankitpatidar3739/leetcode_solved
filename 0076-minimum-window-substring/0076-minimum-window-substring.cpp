@@ -1,35 +1,47 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int n=s.size();
-        int m=t.size();
-        int hash[256]={0};
 
-        for(int i=0;i<m;i++){
-            hash[t[i]]++;
-        }
-        int l=0,r=0,cnt=0;
-        int sIndex=-1;
-        int minLength=std::numeric_limits<int>::max(); 
+        int hash[256] = {0};
 
-            while(r<n){
-                if(hash[s[r]]>0){
-                    cnt++;
-                } 
-                hash[s[r]]--;
-                
-                while(cnt==m){
-                    if(r-l+1 < minLength){
-                        minLength=r-l+1;
-                        sIndex=l;
-                    }  
-                    hash[s[l]]++;
-                    
-                    if(hash[s[l]]>0)cnt--;
-                    l++;
+        for (char c : t)
+            hash[c]++;
+
+        int i = 0, j = 0;
+        int cnt = 0;
+
+        int start = -1;
+        int minLen = INT_MAX;
+
+        while (j < s.size()) {
+
+            // Include current character
+            if (hash[s[j]] > 0)
+                cnt++;
+
+            hash[s[j]]--;
+            j++;
+
+            // Shrink window
+            while (cnt == t.size()) {
+
+                if (j - i < minLen) {
+                    minLen = j - i;
+                    start = i;
                 }
-                r=r+1; 
+
+                hash[s[i]]++;
+
+                if (hash[s[i]] > 0)
+                    cnt--;
+
+                i++;
             }
-        return sIndex==-1 ? "":s.substr(sIndex,minLength);
+        }
+
+        if (start == -1)
+            return "";
+
+        return s.substr(start, minLen);
     }
 };
