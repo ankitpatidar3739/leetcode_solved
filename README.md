@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0493-reverse-pairs) |
+| [0523-continuous-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0319-bulb-switcher) |
+| [0523-continuous-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0523-continuous-subarray-sum) |
 | [0909-stone-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
