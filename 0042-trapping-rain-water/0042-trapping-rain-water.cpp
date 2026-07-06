@@ -1,29 +1,28 @@
 class Solution {
 public:
-    int trap(vector<int>& arr) {
+    int trap(vector<int>& height) {
         int l=0;
-        int r=arr.size()-1;
-        int total=0;
+        int r=height.size()-1;
         int lmax=0;
         int rmax=0;
+        int water=0;
 
         while(l<r){
-            if(arr[l]<=arr[r]){
-                if(lmax>arr[l]){
-                    total+=lmax-arr[l];
-                }else{
-                    lmax=arr[l];
-                }
-                 l=l+1;
-            }else {
-                if(rmax>arr[r]){
-                total+=rmax-arr[r];
+            if(height[l]<height[r]){
+               if(height[l]>=lmax){
+                    lmax=height[l];
+               }else{
+                    water+=lmax-height[l];
+               }
+               l++;
             }else{
-               rmax=arr[r]; 
-            }  
-            r=r-1;
-            }
+                if(height[r]>=rmax)
+                    rmax=height[r];
+                else
+                water+=rmax-height[r];
+            r--;
+            }     
         }
-        return total;
+        return water;
     }
 };
