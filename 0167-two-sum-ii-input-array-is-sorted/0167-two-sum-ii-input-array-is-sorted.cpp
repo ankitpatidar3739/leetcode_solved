@@ -7,15 +7,13 @@ public:
 
         while(i<j){
             if(numbers[i]+numbers[j]==target){
-                arr.push_back(i+1);
-                arr.push_back(j+1);
-                return arr;
+                return {i+1,j+1};
             }else if(numbers[i]+numbers[j]<target){
                 i++;
             }else{
                 j--;
             }
         }
-        return arr;
+        return {-1,-1};
     }
 };
