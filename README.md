@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0076-minimum-window-substring) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0061-rotate-list) |
@@ -646,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
