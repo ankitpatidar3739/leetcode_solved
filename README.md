@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0940-fruit-into-baskets) |
 | [0967-minimum-falling-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
+| [1035-uncrossed-lines](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1035-uncrossed-lines) |
 | [1036-rotting-oranges](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
+| [1035-uncrossed-lines](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1035-uncrossed-lines) |
 | [1250-longest-common-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
