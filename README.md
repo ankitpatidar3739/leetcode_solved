@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1628-count-submatrices-with-all-ones) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
