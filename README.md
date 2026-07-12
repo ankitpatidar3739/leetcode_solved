@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1894-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0206-reverse-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
