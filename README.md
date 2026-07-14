@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0516-longest-palindromic-subsequence) |
+| [0649-dota2-senate](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1250-longest-common-subsequence) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0890-lemonade-change) |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
