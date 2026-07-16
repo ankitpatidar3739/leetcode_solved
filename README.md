@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0909-stone-game) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
 | [0493-reverse-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
