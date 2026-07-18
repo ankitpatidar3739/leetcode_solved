@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0523-continuous-subarray-sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0649-dota2-senate) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0746-min-cost-climbing-stairs) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1331-rank-transform-of-an-array) |
