@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0890-lemonade-change) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0739-daily-temperatures) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1628-count-submatrices-with-all-ones) |
 ## Tree
