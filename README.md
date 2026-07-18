@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0063-unique-paths-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0064-minimum-path-sum) |
