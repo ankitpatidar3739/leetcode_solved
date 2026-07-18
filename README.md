@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
