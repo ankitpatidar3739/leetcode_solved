@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0208-implement-trie-prefix-tree) |
+| [0901-online-stock-span](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0969-number-of-recent-calls) |
 ## Depth-First Search
 |  |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0901-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1628-count-submatrices-with-all-ones) |
 ## Tree
