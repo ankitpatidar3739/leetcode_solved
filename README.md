@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0516-longest-palindromic-subsequence) |
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0907-koko-eating-bananas) |
