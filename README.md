@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0319-bulb-switcher) |
 | [0523-continuous-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0909-stone-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1137-n-th-tribonacci-number) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1331-rank-transform-of-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1777-determine-if-two-strings-are-close) |
