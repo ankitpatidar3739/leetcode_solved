@@ -1,21 +1,21 @@
 class Solution {
-    private:
-
-    int func(vector<int>&dp,int n){
-        if(n==0) return 1;
-        if(n==1) return 1;
-        
-
-        if(dp[n]!=-1) return dp[n];
-
-        int left=func(dp,n-1);
-        int right=func(dp,n-2);
-
-        return dp[n]=left+right;
-    }
 public:
+
+    int f(int idx,vector<int>&dp){
+        if(idx==0) return dp[idx]=1;
+        if(idx==1) return dp[idx]=1;
+
+        if(dp[idx]!=-1) return dp[idx];
+
+        int left=f(idx-1,dp);
+        int right=f(idx-2,dp);
+
+        return dp[idx]=left+right;
+    }
+
     int climbStairs(int n) {
-       vector<int>dp(n+1,-1);
-       return func(dp,n);
+        vector<int>dp(n+1,-1);
+
+        return f(n,dp);
     }
 };
