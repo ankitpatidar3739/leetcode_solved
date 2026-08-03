@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1073-number-of-enclaves) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1331-rank-transform-of-an-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1137-n-th-tribonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
 | [1406-stone-game-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1406-stone-game-iii) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0649-dota2-senate) |
 | [0890-lemonade-change](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0890-lemonade-change) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
