@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0649-dota2-senate) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1189-maximum-number-of-balloons) |
 | [1250-longest-common-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1250-longest-common-subsequence) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
