@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0525-contiguous-array) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0967-minimum-falling-path-sum) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0901-online-stock-span](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0969-number-of-recent-calls) |
 ## Queue
