@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0402-remove-k-digits) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0523-continuous-subarray-sum) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1189-maximum-number-of-balloons) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1777-determine-if-two-strings-are-close) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
