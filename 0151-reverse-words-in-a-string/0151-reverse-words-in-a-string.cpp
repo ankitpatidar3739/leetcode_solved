@@ -1,38 +1,29 @@
 class Solution {
 public:
     string reverseWords(string s) {
+        vector<string>words;
+        string word;
 
-        string ans = "";
-        int j = s.size() - 1;
+        for(char c:s){
+            if(c != ' '){
+                word+=c;
+            }else if(!word.empty()){
+                words.push_back(word);
+                word="";
+            }
+        }
 
-        while (j >= 0) {
+        if(!word.empty()){
+            words.push_back(word);
+        }
+        string ans;
 
-            // Skip spaces
-            while (j >= 0 && s[j] == ' ')
-                j--;
+        for(int i=words.size()-1;i>=0;i--){
+            ans+=words[i];
 
-            if (j < 0)
-                break;
-
-            int end = j;
-
-            // Find the beginning of the word
-            while (j >= 0 && s[j] != ' ')
-                j--;
-
-            int start = j + 1;
-
-            // Copy the whole word
-            ans += s.substr(start, end - start + 1);
-
-            // Add one space if more words remain
-            while (j >= 0 && s[j] == ' ')
-                j--;
-
-            if (j >= 0)
-                ans += ' ';
+            if(i!=0) ans+=" ";
         }
 
         return ans;
-    }
+    }   
 };
