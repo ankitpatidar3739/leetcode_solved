@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0486-predict-the-winner) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0258-add-digits) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2149-rearrange-array-elements-by-sign) |
