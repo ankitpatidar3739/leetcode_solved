@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0338-counting-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1009-complement-of-base-10-integer) |
 ## String
 |  |
 | ------- |
