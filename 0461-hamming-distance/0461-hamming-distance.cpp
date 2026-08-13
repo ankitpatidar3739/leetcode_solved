@@ -1,8 +1,14 @@
 class Solution {
 public:
     int hammingDistance(int x, int y) {
-    int ans=x^y;
+        int n = x ^ y;
+        int count = 0;
 
-    return __popcount(ans);
+        while (n != 0) {
+            n = n & (n - 1);
+            count++;
+        }
+
+        return count;
     }
 };
