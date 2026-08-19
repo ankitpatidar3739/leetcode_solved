@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1331-rank-transform-of-an-array) |
 | [1372-check-if-it-is-a-good-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1372-check-if-it-is-a-good-array) |
+| [1386-cinema-seat-allocation](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1386-cinema-seat-allocation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1406-stone-game-iii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0461-hamming-distance) |
 | [1009-complement-of-base-10-integer](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1009-complement-of-base-10-integer) |
+| [1386-cinema-seat-allocation](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1386-cinema-seat-allocation) |
 ## String
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0890-lemonade-change) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
+| [1386-cinema-seat-allocation](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1386-cinema-seat-allocation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1777-determine-if-two-strings-are-close) |
