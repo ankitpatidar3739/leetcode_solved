@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0304-range-sum-query-2d-immutable) |
+| [0336-palindrome-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0416-partition-equal-subset-sum) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0336-palindrome-pairs) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0268-missing-number) |
+| [0336-palindrome-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0387-first-unique-character-in-a-string) |
@@ -747,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0208-implement-trie-prefix-tree) |
+| [0336-palindrome-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0336-palindrome-pairs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -838,4 +842,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0069-sqrtx) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
