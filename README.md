@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3719-longest-balanced-subarray-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
