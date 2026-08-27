@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0890-lemonade-change) |
+| [0904-fruit-into-baskets](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0940-fruit-into-baskets) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1034-subarrays-with-k-different-integers) |
