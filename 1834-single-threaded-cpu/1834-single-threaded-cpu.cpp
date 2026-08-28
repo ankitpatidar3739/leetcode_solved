@@ -15,8 +15,9 @@ public:
         priority_queue<pair<int,int> , vector<pair<int,int>> , greater<>>pq;
         vector<int>result;
         while(idx<n || !pq.empty()){
-            if(pq.empty()){
-                curr = max(curr, (long long)sortedtasks[idx][0]);
+            
+            if(pq.empty() && curr<sortedtasks[idx][0]){
+                curr = sortedtasks[idx][0];
             }
 
             while(idx<n && sortedtasks[idx][0]<=curr){
