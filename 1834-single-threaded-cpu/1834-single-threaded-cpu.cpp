@@ -24,7 +24,7 @@ public:
                 idx++;
             }
 
-            auto curr_task=pq.top();
+            pair<int,int> curr_task=pq.top();
             pq.pop();
 
             curr+=curr_task.first;
