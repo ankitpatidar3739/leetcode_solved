@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2542-maximum-subsequence-score) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2428-equal-row-and-column-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2428-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2470-removing-stars-from-a-string](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2470-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1753-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1834-single-threaded-cpu) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/2542-maximum-subsequence-score) |
 ## Bucket Sort
 |  |
