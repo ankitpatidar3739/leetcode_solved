@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0735-asteroid-collision) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0890-lemonade-change) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-break-a-palindrome](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1252-break-a-palindrome) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0909-stone-game](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0909-stone-game) |
 | [0967-minimum-falling-path-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0967-minimum-falling-path-sum) |
