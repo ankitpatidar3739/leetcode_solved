@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0213-house-robber-ii) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0240-search-a-2d-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0542-01-matrix](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0542-01-matrix) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0226-invert-binary-tree) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0226-invert-binary-tree) |
@@ -915,4 +919,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0336-palindrome-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
