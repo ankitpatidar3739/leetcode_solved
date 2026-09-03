@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3790-fruits-into-baskets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3830-find-closest-person](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3830-find-closest-person) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
