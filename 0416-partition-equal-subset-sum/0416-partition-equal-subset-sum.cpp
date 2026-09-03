@@ -1,32 +1,27 @@
 class Solution {
-    bool func(int n,int k,vector<int>& arr){
-        vector<bool>prev(k+1,0),curr(k+1,0);
-        prev[0]=curr[0]=true;
-
-        if(arr[0]<=k) prev[arr[0]]=true;
-
-        for(int idx=1;idx<n;idx++){
-            for(int target=1;target<=k;target++){
-                bool nottake=prev[target];
-                bool take=false;
-                if(arr[idx]<=target) take=prev[target-arr[idx]];
-                curr[target]=take|nottake;
-            }
-            prev=curr;
-        }
-        return prev[k];
-    }
 public:
+    bool func(int idx,vector<int>& nums,int target,vector<vector<int>>& dp){
+        if(target==0) return true;
+        if(idx==0) return (target==nums[idx]);
+
+        if(dp[idx][target]!=-1) return dp[idx][target];
+
+        bool nottake=func(idx-1,nums,target,dp); 
+        bool take=false;
+        if(nums[idx]<=target) take=func(idx-1,nums,target-nums[idx],dp);
+
+        return dp[idx][target]= take | nottake;
+    }
+
     bool canPartition(vector<int>& nums) {
         int n=nums.size();
-        int total=0;
-        for(int i=0;i<nums.size();i++){
-            total+=nums[i];
+        int sum=0;
+        for(int x:nums){
+            sum+=x;
         }
-        if(total%2!=0) return false;
-        int target=total/2;
-
-        return func(n,target,nums);
+        int k=(sum/2);
+        vector<vector<int>>dp(n,vector<int>(k+1,-1));
+        if(sum%2!=0) return false;
+        else return func(n-1,nums,k,dp);
     }
 };
-auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
