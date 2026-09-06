@@ -976,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0455-assign-cookies) |
 ## Complete Knapsack
 |  |
