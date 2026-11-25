@@ -990,4 +990,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/0856-score-of-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ankitpatidar3739/leetcode_solved/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
